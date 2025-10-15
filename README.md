@@ -19,6 +19,11 @@
 <div align="center">
   <img src="./img/telaVenda_prototipo.png" alt="imagem Tela Venda" width="700"/>
 </div>
+
+  <p align="center">
+   <a href="https://prototipo-blue.vercel.app">Link para a Tela do Protótipo</a>
+  </p>
+   
  <br><br>
  
  ⚠ **Atenção** : Material com fins de aprendizado, e assim sendo, pode conter **erros** e **insconsistências**.
